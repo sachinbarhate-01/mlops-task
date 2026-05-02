@@ -1,0 +1,16 @@
+2026-05-02 14:50:07,660 - INFO - Job started
+2026-05-02 14:50:07,661 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-05-02 14:50:07,662 - ERROR - Input CSV not found
+2026-05-02 14:51:42,584 - INFO - Job started
+2026-05-02 14:51:42,585 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-05-02 14:51:42,601 - ERROR - Missing 'close' column
+2026-05-02 14:58:57,148 - INFO - Job started
+2026-05-02 14:58:57,149 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-05-02 14:58:57,162 - INFO - Rows loaded: 10000
+2026-05-02 14:58:57,169 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 19, 'seed': 42, 'status': 'success'}
+2026-05-02 14:58:57,169 - INFO - Job completed
+2026-05-02 15:01:38,612 - INFO - Job started
+2026-05-02 15:01:38,613 - INFO - Config loaded: {'seed': 42, 'window': 5, 'version': 'v1'}
+2026-05-02 15:01:38,633 - INFO - Rows loaded: 10000
+2026-05-02 15:01:38,642 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 29, 'seed': 42, 'status': 'success'}
+2026-05-02 15:01:38,642 - INFO - Job completed
